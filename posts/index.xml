@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Moto Blog Site</title>
+    <link>https://github.com/Mattmx98/mxblog.github.io/posts/</link>
+    <description>Recent content in Posts on My New Moto Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Aug 2022 17:48:02 -0400</lastBuildDate><atom:link href="https://github.com/Mattmx98/mxblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://github.com/Mattmx98/mxblog.github.io/posts/mypost/</link>
+      <pubDate>Fri, 19 Aug 2022 17:48:02 -0400</pubDate>
+      
+      <guid>https://github.com/Mattmx98/mxblog.github.io/posts/mypost/</guid>
+      <description>This is the first post for the MXBlog
+public static void (String[]args) { System.out.println(&amp;#34;Motocross bikes are awesome!&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
